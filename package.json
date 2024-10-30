@@ -1,0 +1,22 @@
+{
+  "name": "x2alhh--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "antd": "5.21.5",
+    "@ant-design/icons": "5.5.1",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
